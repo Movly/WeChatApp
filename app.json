@@ -1,0 +1,28 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#006400",
+    "navigationBarTitleText": "邵武美家",
+    "navigationBarTextStyle":"white",
+    "navigationStyle":"defult"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "position":"top"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "日志",
+        "position": "bottom",
+        "iconPath":"images/timg11.jpg"
+      }
+    ]
+  }
+}

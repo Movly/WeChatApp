@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#006400",
+    "navigationBarTitleText": "邵武美家",
+    "navigationBarTextStyle": "white",
+    "navigationStyle": "defult"
+  }
+}
